@@ -45,13 +45,13 @@ This is a microservices-based payment collection system developed during my inte
 ## 📸 Demo Screenshots
 
 **Main Menu (`index.html`)**  
-![Main Page](index.png)
+![Main Page](assets/index.png)
 
 **Invoices Page (`invoices.html`)**  
-![Invoices Page](invoices.png)
+![Invoices Page](assets/invoices.png)
 
 **Stats Page (`stats.html`)**  
-![Stats Page](stats.png)
+![Stats Page](assets/stats.png)
 
 ---
 
@@ -108,13 +108,13 @@ Bu proje, Turkcell stajım kapsamında geliştirdiğim mikroservis tabanlı bir 
 ## 📸 Ekran Görüntüleri
 
 **Ana Menü (`index.html`)**  
-![Ana Menü](index.png)
+![Ana Menü](assets/index.png)
 
 **Fatura Sayfası (`invoices.html`)**  
-![Fatura Sayfası](invoices.png)
+![Fatura Sayfası](assets/invoices.png)
 
 **İstatistik Sayfası (`stats.html`)**  
-![İstatistik Sayfası](stats.png)
+![İstatistik Sayfası](assets/stats.png)
 
 ---
 
